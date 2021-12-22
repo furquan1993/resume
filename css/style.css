@@ -1,3 +1,11 @@
 body {
-    background-color: lightgrey;
-  }
+  background-color: lightgrey;
+}
+
+.name-header {
+  background-image: url("../res/header_bg.jpg");
+}
+
+.resume-section {
+  background-color: whitesmoke;
+}
